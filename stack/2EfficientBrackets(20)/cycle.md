@@ -11,6 +11,7 @@
 4. 数组遍历的高级方法与for循环的效率差异分析？
 5. 数组遍历的高级方法底层实现是通过for循环吗？
 
-关于速度问题，stackoverflow上面有一个相关讨论：
-(What's the fastest way to loop through an array in JavaScript?)[https://stackoverflow.com/questions/5349425/whats-the-fastest-way-to-loop-through-an-array-in-javascript]
+关于效率问题，stackoverflow上面有一个相关讨论：
+[What's the fastest way to loop through an array in JavaScript?](https://stackoverflow.com/questions/5349425/whats-the-fastest-way-to-loop-through-an-array-in-javascript)
 
+ 
